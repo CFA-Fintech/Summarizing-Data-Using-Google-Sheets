@@ -1,15 +1,42 @@
-# Summarizing-Data-Using-Google-Sheets
+# Welcome!
 
-## The hands-on project Summarizing Data using Google Sheets is divided into 6 main tasks. The objective of this project is to introduce you to some of the most commonly used methods in the business setting, focusing on how to develop them and when one is more appropriate than others. We will accomplish this by building up our skills through the following tasks in the project:
+### Welcome to Summarizing Data Using Google Sheets. 
+This is a project-based course that should take approximately 2 hours to complete. Before you jumpstart the project, please, have a glance at the course objectives and structure. Summarizing vast amounts of data into a few numbers, charts, and graphs manually to gain the invaluable insights hidden in them may appear to be tedious. In this project, our focus will be on learning several graphical methods for summarizing data using Google Sheets. We will introduce you to the most commonly used methods in the business setting while focusing on how to develop them and when one is more appropriate than others. We will use Google Sheets and large data sets to illustrate how to create the summary techniques.
 
-### Task 1: Frequency Tables in Google Sheet - Quantitative Data
+## Project Objectives
+In this course, we are going to focus on six learning objectives.
 
-### Task 2: Frequency Tables in Google Sheet - Qualitative Data
+* LOB1: Frequency Tables In Google Sheets - Quantitative Data
+* LOB2: FrequencyTables In Google Sheets - Qualitative Data
+* LOB3: Presenting Frequency Tables as a Bar Graph in Google Sheets
+* LOB4: Histograms in Google Sheets
+* LOB5: Pie Charts In Google Sheets
+* LOB6: Scatter Plots In Google Sheets
 
-### Task 3: Presenting Frequency Tables as a Bar Graph in Google Sheet
+By the end of this project, you will be able to use Google Sheet to construct frequency tables, bar charts, including histograms, scatter plots, and pie charts to analyze your data. So, no matter what
+the field you might be in, this project is intended for you and requires no prerequisite.
 
-### Task 4: Histograms in Google Sheet
+## Project Structure
+This hands-on project on Summarizing Data Using Google Sheet is divided into the following tasks: 
 
-### Task 5: Pie Charts in Google Sheet
+Task 1: Frequency Tables In Google Sheets - Quantitative Data
 
-### Task 6: Scatter Plots in Google Sheet
+Task 2: Frequency Tables In Google Sheets - Qualitative Data 
+
+Task 3: Presenting Frequency Tables as a Bar Graph In Google Sheets 
+
+Task 4: Histograms In Google Sheets 
+
+Task 5: Pie Charts In Google Sheets
+
+Task 6: Scatter Plots In Google Sheets.
+
+## Project Workflow 
+
+## Dataset
+
+## Tools
+
+## Summary
+
+
