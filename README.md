@@ -79,6 +79,8 @@ Step 6: Answers, Insights, Findings and Summary
 
 ## Dataset
 
+data dips - Data dips are search points that collect data from external platforms (like a CRM) or within the call flow. For example, if you ask a caller to input their customer number, this number will be verified against a database.
+
 ## Tools
 Google sheets
 
