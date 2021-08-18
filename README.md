@@ -36,15 +36,15 @@ Task 6: Scatter Plots In Google Sheets.
 Step 1: Launch the following web address (https://www.google.com/sheets/about/)
 then click on "Go To Google Sheets" as shown in this image: 
 
-![Image](Google_Sheets.png)
+![Images](Google_Sheets.png)
 
 Step 2: Click on "Create account" and select "For myself" as shown in the following image:
 
-![Image](Create_Google_Account.png)
+![Images](Create_Google_Account.png)
 
 Step 3: Fill out the sign-up form with your credentials
 
-![Image](Credentials.png)
+![Images](Credentials.png)
 
 Step 4: Import data into Google Sheets
 
@@ -52,19 +52,19 @@ Now you will need to import the data on which you are going to work in Google Sh
 
 * Click on "Start a new spreadsheet" as shown in the following image
 
-![Image](New_Spreadsheet.png)
+![Images](New_Spreadsheet.png)
 
 * Click on “File” as shown in the following image, and then select “import”.
 
-![Image](File_Import.png)
+![Images](File_Import.png)
 
 * Here, click on “upload”, then click and drag the file on which you are going to work from your local Resources Folder.
 
-![Image](Upload.png)
+![Images](Upload.png)
 
 * Click on "import data" as shown in the image below.
 
-![Image](import_data.png)
+![Images](import_data.png)
 
 Step 5: Summarizing Data Using Google Sheets 
 
