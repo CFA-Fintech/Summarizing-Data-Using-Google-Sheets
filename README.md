@@ -69,7 +69,7 @@ Now you will need to import the data on which you are going to work in Google Sh
 
 ## Dataset
 
-Data dips - Data dips are search points that collect data from external platforms (like a CRM) or within the call flow. For example, if you ask a caller to input their customer number, this number will be verified against a database.
+Data dips collectected data from Salesforce, Talkdesk (CRM).
 
 ## Tools
 Google Sheets
