@@ -65,6 +65,8 @@ Now you will need to import the data on which you are going to work in Google Sh
 * Creating charts and graphs
 
 ### Step 6: Answers, Insights, Findings and Summary
+A Quality Assurance Manager at a contact center is preparing a benchmark report on key performance indicators.
+He wants to customize the service level threshold and the maximum waiting time.
 
 
 ## Dataset
