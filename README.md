@@ -66,7 +66,7 @@ Now you will need to import the data on which you are going to work in Google Sh
 
 ### Step 6: Answers, Insights, Findings and Summary
 A Quality Assurance Manager at a contact center is preparing a benchmark report on key performance indicators.
-He wants to customize the service level threshold and the maximum waiting time.
+He wants to customize the service level threshold according to the time (in seconds) callers waited for their call to be answered.
 
 
 ## Dataset
@@ -77,5 +77,17 @@ Data dips collectected data from Salesforce, Talkdesk (CRM).
 Google Sheets
 
 ## Summary
+
+
+![Images](/Images/Quantitative_Data.png)
+
+
+![Images](/Images/Bar_Graph.png)
+
+
+![Images](/Images/Pie_Chart.png)
+
+
+![Images](/Images/Scatter_Plot.png)
 
 
