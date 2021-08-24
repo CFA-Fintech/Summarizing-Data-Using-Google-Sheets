@@ -1,6 +1,6 @@
 # Welcome!
 
-## Welcome to Summarizing Data Using Google Sheets. 
+## Welcome to use Google Sheets to aggregate data. 
 This is a project that takes approximately 2 hours to complete. Before starting the project, look at the objectives and structure. Manually summarizing large amounts of data into a few numbers, charts, and graphs to get valuable information hidden in them can seem tedious. In this project, our focus will be to show various graphical methods for aggregating data using Google Sheets. We will introduce you to the most commonly used methods in a business environment, while focusing on how to develop them and when they are most appropriate. We will use Google Sheets and a large data set to illustrate how to create a summary technique.
 
 ## Project Objectives
