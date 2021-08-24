@@ -7,20 +7,20 @@ This is a project that takes approximately 2 hours to complete. Before starting 
 In this project, we are going to use Google Sheet to construct frequency tables, bar charts, including histograms, scatter plots, and pie charts to analyze your data across diferent fields, disciplines or industries.
 
 ## Project Structure
-This hands-on project on Summarizing Data Using Google Sheet is divided into the following tasks: 
+This Project using Google Sheets to summarize data is divided into the following tasks: 
 
-Task 1: Frequency Tables In Google Sheets - Quantitative Data
-
-Task 2: Frequency Tables In Google Sheets - Qualitative Data 
-
-Task 3: Presenting Frequency Tables as a Bar Graph In Google Sheets 
-
-Task 4: Histograms In Google Sheets 
-
-Task 5: Pie Charts In Google Sheets
-
-Task 6: Scatter Plots In Google Sheets.
-
+ Task 1: Quantitative data from the frequency table of Google Sheets 
+ 
+ Task 2: Qualitative data from the frequency table of Google Sheets 
+ 
+ Task 3: Display the frequency table as a bar chart of Google Sheets
+ 
+ Task 4: Histogram in Google Sheets 
+ 
+ Task 5: Pie Chart in Google Sheets 
+ 
+ Task 6: Scatter Plot in Google Sheets.
+ 
 ## Project Workflow 
 
 ### Step 1: Launch the following web address (https://www.google.com/sheets/about/)
@@ -56,24 +56,24 @@ Now you will need to import the data on which you are going to work in Google Sh
 
 ![Images](/Images/import_data.png)
 
-### Step 5: Summarizing Data Using Google Sheets 
+### Step 5: Aggregate data using Google Sheets 
 
-* Understanding the data
-* Combining the data
-* Summarizing the data using pivot tables
-* Summarizing the data using custom formulas
-* Creating charts and graphs
+* Understand the data
+* Merge data
+* Use a pivot table to summarize data
+* Use custom formulas to summarize data
+* Create graphs and charts
 
 ### Step 6: Answers, Insights, Findings and Summary
-A Quality Assurance Manager at a contact center is preparing a benchmark report on key performance indicators.
-He wants to customize the service level threshold according to the time (in seconds) callers waited for their call to be answered.
-
+The quality assurance manager of the contact center is preparing a baseline report on key performance indicators. 
+You want to customize the service level threshold based on the time (in seconds) that callers wait for their call to be answered.
 
 ## Dataset
 
 Data dips collectected data from Salesforce, Talkdesk (CRM).
 
 ## Tools
+
 Google Sheets
 
 ## Summary
