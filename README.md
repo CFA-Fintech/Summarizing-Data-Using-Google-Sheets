@@ -1,7 +1,7 @@
 # Welcome!
 
 ## Welcome to Summarizing Data Using Google Sheets. 
-This is a project should take approximately 2 hours to complete. Before you jumpstart the project, please, have a glance at the objectives and structure. Summarizing vast amounts of data into a few numbers, charts, and graphs manually to gain the invaluable insights hidden in them may appear to be tedious. In this project, our focus will be on showcasing several graphical methods for summarizing data using Google Sheets. We will introduce you to the most commonly used methods in the business setting while focusing on how to develop them and when one is more appropriate than others. We will use Google Sheets and large data sets to illustrate how to create the summary techniques.
+This is a project that takes approximately 2 hours to complete. Before starting the project, look at the objectives and structure. Manually summarizing large amounts of data into a few numbers, charts, and graphs to get valuable information hidden in them can seem tedious. In this project, our focus will be to show various graphical methods for aggregating data using Google Sheets. We will introduce you to the most commonly used methods in a business environment, while focusing on how to develop them and when they are most appropriate. We will use Google Sheets and a large data set to illustrate how to create a summary technique.
 
 ## Project Objectives
 In this project, we are going to use Google Sheet to construct frequency tables, bar charts, including histograms, scatter plots, and pie charts to analyze your data across diferent fields, disciplines or industries.
